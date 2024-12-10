@@ -20,3 +20,21 @@ O trabalho foi feito no Google Colab, em apenas 1 Notebook. Esse Notebook conté
   6. Conclusão
   7. Parte extra
 
+**Para a Sprint de Maching Learning - Sprint III:**
+
+O trabalho foi feito no Google Colab, separado em 2 Notebook. O primeiro Notebook contém as seguintes informações: 
+  1.   Objetivo do projeto
+  2.   Origem e descrição dos dados
+  3.   Obtenção dos dados
+  4.   Análise dos dados
+  5.   Pré-Processamento - Parte 1
+  6.   Divisão dos dados em Treinamento e Teste
+  7.   Pré-Processamento - Parte 2
+     
+O segundo Notebook contém as seguintes etapas:
+  9. Construção do Modelo de Redes Neurais
+  10. Validando modelo com novos dados
+  11. Conclusão
+  
+Os arquivos que estão na pasta projeto-sprint-3 são:
+  Dois Notebooks com os códigos do projeto, uma base de dados inícial (dataset_spotify.csv), um modelo final (final_model.h5), quatro dicionários (index_to_word_xxx.csv e word_to_index_xxx.csv), um conjunto já preparado para treinar o modelo (train_df.csv) e outro conjunto para testar o modelo (test_df.csv)
